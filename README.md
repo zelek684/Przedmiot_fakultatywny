@@ -1,2 +1,2 @@
 # Przedmiot_fakultatywny
-numer indexu: 163091
+numer indeksu: 163091
