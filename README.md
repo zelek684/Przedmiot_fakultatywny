@@ -1,2 +1,3 @@
-# Przedmiot_fakultatywny
+Angelika Łazoryszyn  
 numer indeksu: 163091
+
